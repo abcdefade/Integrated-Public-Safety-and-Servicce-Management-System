@@ -1,3 +1,4 @@
-# Integrated-Public-Safety-and-Servicce-Management-System .
-# Since the previous file was deleted, we had to create a new repository .
-# In order to get the all file you have to extract the zip file cause Github dont allow uploading file larger than 100mb and for zip the file limit 25 mb
+# Integrated Public Safety and Service Management System
+
+Due to confidentiality concerns, I am unable to share my original GitHub profile publicly as that contains important files like my project with its source code. Therefore, I have created this separate GitHub profile specifically for this capstone project, which includes all the necessary code for this project.
+
